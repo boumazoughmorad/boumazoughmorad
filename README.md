@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Bonjour, je suis  Morad Boumazough!
 
-<!--
-**boumazoughmorad/boumazoughmorad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 À propos de moi :
+- 🔭 Je travaille actuellement sur des projets Angular 🚀
+- 🌱 J'apprends sans cesse de nouvelles technologies
+- 📫 Contactez-moi : mouradboumazough@gmail.com
 
-Here are some ideas to get you started:
+### 🚀 Technologies & Outils :
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Mes statistiques GitHub :
+![Tes Stats](https://github-readme-stats.vercel.app/api?username=TonUsername&show_icons=true&theme=radical)
