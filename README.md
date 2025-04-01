@@ -7,15 +7,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=developer+Full+Stack;Java+Angular..♥++,;Java+ React..♥++;JEE..♥++<3"></a></p>
 <br>
-
-<h2 id="-about-me"><picture><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv3S7YDnHC1mD67Aa43Jehgf-AraZPB77Snw&s" width="50px"></picture>   <tr><strong>About me</strong></h2>
-<p>Full-Stack Developer with expertise in Java, Angular, React, and JEE. Currently at CodingArt, building web applications for sales, finance, and marketing management. I have strong experience in customer order management, reporting, and data analytics. Skilled in Spring Boot, Hibernate, JPA, ReactJS, Angular, Docker, and AWS. Previously worked at Lear Corporation on requirement specification tools and analytical dashboards.</p>
-
-## Contact
-- Email: mouradboumazough@gmail.com
-- Phone: 06 49 95 24 17
-- LinkedIn: [/boumazough-morad](https://www.linkedin.com/in/boumazough-morad)
-<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br></p>
 <h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
 <br>
 
@@ -68,6 +59,14 @@
   </p>
 </div>
 
+<h2 id="-about-me"><picture><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv3S7YDnHC1mD67Aa43Jehgf-AraZPB77Snw&s" width="50px"></picture>   <tr><strong>About me</strong></h2>
+<p>Full-Stack Developer with expertise in Java, Angular, React, and JEE. Currently at CodingArt, building web applications for sales, finance, and marketing management. I have strong experience in customer order management, reporting, and data analytics. Skilled in Spring Boot, Hibernate, JPA, ReactJS, Angular, Docker, and AWS. Previously worked at Lear Corporation on requirement specification tools and analytical dashboards.</p>
+
+## Contact
+- Email: mouradboumazough@gmail.com
+- Phone: 06 49 95 24 17
+- LinkedIn: [/boumazough-morad](https://www.linkedin.com/in/boumazough-morad)
+<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br></p>
 
 <div align="center">
   <br>
