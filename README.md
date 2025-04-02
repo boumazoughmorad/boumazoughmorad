@@ -3,9 +3,6 @@
 <h2 id="السَّلاَمُ-عَلَيْكُمْ-وَرَحْمَةُ-اللهِ-وَبَرَكَاتُهُ"><b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ…✨</b></h2>
 </div>
   <h1 align="center"><b>Hi , I'm Morad Boumazough </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=developer+Full+Stack;Java+Angular..♥++,;Java+ React..♥++;JEE..♥++<3"></a></p>
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3da37a&size=40&center=true&vCenter=true&width=1100&lines=developer+Full+Stack;Java+Angular..♥++,;Java+ React..♥++;JEE..♥++)](https://git.io/typing-svg)
 <br>
 <h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
